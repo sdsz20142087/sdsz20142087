@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingzhedong/)](https://www.linkedin.com/in/yingzhedong/)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-2EC866?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/neudongyingzhe/)](https://leetcode.com/neudongyingzhe/)
 [![Website Badge](https://img.shields.io/badge/-Website-FE7A16?style=flat-square&logo=Netlify&logoColor=white&link=https://www.yingzhe-dong.com/)](https://www.yingzhe-dong.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neudongyingzhe@gmail.com)](mailto:neudongyingzhe@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-Google%20Scholar-0F9D58?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=Tks14CYAAAAJ&hl=en)](https://scholar.google.com/citations?user=Tks14CYAAAAJ&hl=en)
 
 
