@@ -10,9 +10,8 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-Google%20Scholar-0F9D58?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=Tks14CYAAAAJ&hl=en)](https://scholar.google.com/citations?user=Tks14CYAAAAJ&hl=en)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-I am a **Graduate Student🎓** of Computer Science at Boston University and a **Full-Stack Developer🧑‍💻**with interests in Software Development, System Architecture, and Distributed System. <br/><br/>
+### A little about me...  <img src="https://media.giphy.com/media/jU2IAEtFVGBDMu2vWg/giphy.gif" width="50"> 
+I'm a **Graduate Student🎓** of Computer Science at Boston University and a **Full-Stack Developer🧑‍💻**with interests in Software Development, System Architecture, and Distributed System. <br/><br/>
 
 
 
