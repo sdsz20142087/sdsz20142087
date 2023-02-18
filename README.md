@@ -16,7 +16,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 
 
-## ⚡️ A Few Quick Facts
+## ⚡️ Talking about Personal Stuffs
 
 - 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning Java ☕
