@@ -24,14 +24,13 @@ I'm a **Graduate Student🎓** of Computer Science at Boston University and a **
 - 🌱 I’m currently learning Full Stack Development
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **MY TO-DO LIST**
-  - 📊 Introduction to Computer Systems [(CMU-15213)](https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x)
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
+  - 🦁 Introduction to Computer Systems [(CMU-15213)](https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x)
+  - 🐼 Distributed Systems[(MIT-6.824)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+  - 🛠 20+ LeetCode/month
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
+- 💬 Ask me about anything here! I am happy to help.
 - 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
