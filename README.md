@@ -27,12 +27,10 @@ I'm a **Graduate Student🎓** of Computer Science at Boston University and a **
   - 🦁 Introduction to Computer Systems [(CMU-15213)](https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x)
   - 🐼 Distributed Systems[(MIT-6.824)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
   - 🛠 20+ LeetCode/month
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about anything here! I am happy to help.
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🤔 I’m looking for amazing open-source projects
+- 💬 Ask me about anything [here](https://github.com/sdsz20142087/sdsz20142087/issues/1)! I am happy to help.
+- 📙 Check out my [Resume](https://www.yingzhe-dong.com/uploads/Resume-Yingzhe-Dong.pdf)
+- 🎉 Fun-Fact: I ❤️ playing Basketball🏀, Badminton🏸️, and Board Games🤩
 
   
 ### 🖥️ My DevSetup
