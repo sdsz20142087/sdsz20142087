@@ -20,12 +20,11 @@ I'm a **Graduate Student🎓** of Computer Science at Boston University and a **
 
 ## ⚡️ Talking about Personal Stuffs
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🔭 I’m taking three courses Mobile Development📱, Streaming System🌊, and Network Security🥷
+- 🌱 I’m currently learning Full Stack Development
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **MY TO-DO LIST**
+  - 📊 Introduction to Computer Systems [(CMU-15213)](https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x)
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
