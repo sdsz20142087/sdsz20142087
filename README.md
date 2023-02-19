@@ -1,7 +1,9 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey!, I am <a href="https://github.com/sdsz20142087">Yingzhe Dong</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### 📬 Find me at ![](https://visitor-badge.glitch.me/badge?page_id=sdsz20142087.sdsz20142087&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=sdsz20142087.sdsz20142087&style=flat-square&color=0088cc)
+
+### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sdsz20142087/)](https://github.com/sdsz20142087/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingzhedong/)](https://www.linkedin.com/in/yingzhedong/)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-2EC866?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/neudongyingzhe/)](https://leetcode.com/neudongyingzhe/)
