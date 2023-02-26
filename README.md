@@ -25,7 +25,8 @@ I'm a **Graduate Student🎓** of Computer Science at Boston University and a **
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **MY TO-DO LIST**
   - 🦁 Introduction to Computer Systems [(CMU-15213)](https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x)
-  - 🐼 Distributed Systems[(MIT-6.824)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+  - 🐼 Distributed Systems [(MIT-6.824)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+  - 🏢 System Design [(System Design Interview An Insider’s Guide by Alex Xu)](https://github.com/G33kzD3n/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
   - 🛠 20+ LeetCode/month
 - 🤔 I’m looking for amazing open-source projects
 - 💬 Ask me about anything [here](https://github.com/sdsz20142087/sdsz20142087/issues/1)! I am happy to help.
