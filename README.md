@@ -1,7 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey!, I am <a href="https://github.com/sdsz20142087">Yingzhe Dong</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sdsz20142087.sdsz20142087&style=flat-square&color=0088cc)
+![](https://komarev.com/ghpvc/?username=sdsz20142087&color=blueviolet)
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sdsz20142087/)](https://github.com/sdsz20142087/) 
