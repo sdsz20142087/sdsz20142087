@@ -49,18 +49,16 @@ I'm a **Graduate Student🎓** of Computer Science at Boston University and a **
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=sdsz20142087&show_icons=true&line_height=21&hide=contribs,issues&theme=nightowl" alt="Defcon27's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=sdsz20142087&show_icons=true&line_height=21&hide=contribs,issues&theme=nightowl" alt="Defcon27's Github Stats" /> 
+  
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sdsz20142087&column=7)](https://github.com/sdsz20142087)
-
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
+<!-- [![WAAC](https://github-profile-trophy.vercel.app/?username=sdsz20142087&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- <details>
 <summary> 💥 Working on </summary>
